@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rohitmehra7860.
+- 👋 Hi, I’m Rohit Mehra.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning laravel
-- 📫 How to reach me +91-79731-81539.
+- 📫 How to reach me +91-79731-81539 .
 
 <!---
 rohitmehra7860/rohitmehra7860 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
